@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/lonnekekolkman/Documents/GitHub/VidEdit/VidEdit.csproj": {}
+    "/Users/lonnekekolkman/Projects/VidEdit/VidEdit/VidEdit.csproj": {}
   },
   "projects": {
-    "/Users/lonnekekolkman/Documents/GitHub/VidEdit/VidEdit.csproj": {
+    "/Users/lonnekekolkman/Projects/VidEdit/VidEdit/VidEdit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/lonnekekolkman/Documents/GitHub/VidEdit/VidEdit.csproj",
+        "projectUniqueName": "/Users/lonnekekolkman/Projects/VidEdit/VidEdit/VidEdit.csproj",
         "projectName": "VidEdit",
-        "projectPath": "/Users/lonnekekolkman/Documents/GitHub/VidEdit/VidEdit.csproj",
+        "projectPath": "/Users/lonnekekolkman/Projects/VidEdit/VidEdit/VidEdit.csproj",
         "packagesPath": "/Users/lonnekekolkman/.nuget/packages/",
-        "outputPath": "/Users/lonnekekolkman/Documents/GitHub/VidEdit/obj/",
+        "outputPath": "/Users/lonnekekolkman/Projects/VidEdit/VidEdit/obj/",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "configFilePaths": [

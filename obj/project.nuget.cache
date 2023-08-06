@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IqLdhZ7tJr1Qscmq7r7Fp87LwrOVldRyMqcNuCEv98FjWH2/yOQlCCiKz2KlZp8AkhEOEad7BGllyvUXY1p2bA==",
+  "dgSpecHash": "YuADSt1WkMncb6YjClLuv6bXT284u3WFI2j2Tw57MThOmth5dX2E3ks2bTE7WYPRCbf/9YdLQ2GaCf8Tu/73eA==",
   "success": true,
-  "projectFilePath": "/Users/lonnekekolkman/Documents/GitHub/VidEdit/VidEdit.csproj",
+  "projectFilePath": "/Users/lonnekekolkman/Projects/VidEdit/VidEdit/VidEdit.csproj",
   "expectedPackageFiles": [
     "/Users/lonnekekolkman/.nuget/packages/googlegson/2.9.1.1/googlegson.2.9.1.1.nupkg.sha512",
     "/Users/lonnekekolkman/.nuget/packages/microsoft.extensions.configuration/7.0.0/microsoft.extensions.configuration.7.0.0.nupkg.sha512",
